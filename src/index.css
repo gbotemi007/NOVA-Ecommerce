@@ -1305,6 +1305,12 @@ a {
   .navbar {
     padding: 0 18px;
   }
+  
+  .secondary-button{
+    text-align: center;
+  }
+
+  
 
   .menu-button {
     display: flex;

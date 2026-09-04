@@ -30,9 +30,12 @@ function Hero() {
             Shop Now
           </Link>
 
-          <button className="secondary-button">
+          <Link 
+            className="secondary-button"
+            to="/Categories"
+          >
             Explore Categories →
-          </button>
+          </Link>
 
         </div>
 
